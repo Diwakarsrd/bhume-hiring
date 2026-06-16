@@ -8,9 +8,9 @@ This solution was developed with Claude.ai assistance. The conversation covering
 - Confidence calibration strategy
 - Code review and debugging
 
-**Share link:** *(add your Claude.ai conversation share link here after submitting)*
+**Share link:** *https://claude.ai/share/62a9191f-8e71-48b9-8fa3-3a3a8e591f86*
 
-To get the link: open the conversation in Claude.ai → Share → Copy public link.
+
 
 ## What AI was used for
 
